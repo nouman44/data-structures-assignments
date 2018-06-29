@@ -1,0 +1,80 @@
+TTT Phe
+TTC Phe
+TTG Leu
+TTA Leu
+
+CTT Leu
+CTC Leu
+CTG Leu
+CTA Leu
+
+GTT Val
+GTC Val
+GTG Val
+GTA Val
+
+ATT Ile
+ATC Ile
+ATG Met
+ATA Ile
+
+TCT Ser
+TCC Ser
+TCG Ser
+TCA Ser
+
+CCT Pro
+CCC Pro
+CCG Pro
+CCA Pro
+
+GCT Ala
+GCC Ala
+GCG Ala
+GCA Ala
+
+ACT Thr
+ACC Thr
+ACG Thr
+ACA Thr
+
+TGT Cys
+TGC Cys
+TGG Trp
+TGA ***
+
+CGT Arg
+CGC Arg
+CGG Arg
+CGA Arg
+
+GGT Gly
+GGC Gly
+GGG Gly
+GGA Gly
+
+AGT Ser
+AGC Ser
+AGG Arg
+AGA Arg
+
+TAT Tyr
+TAC Tyr
+TAG ***
+TAA ***
+
+CAT His
+CAC His
+CAG Gln
+CAA Gln
+
+GAT Asp
+GAC Asp
+GAG Glu
+GAA Glu
+
+AAT Asn
+AAC Asn
+AAG Lys
+AAA Lys
+

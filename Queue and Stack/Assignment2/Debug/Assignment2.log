@@ -1,0 +1,4 @@
+﻿  Problem4.cpp
+c:\users\hp\documents\visual studio 2015\projects\assignment2\assignment2\problem4.cpp(231): warning C4101: 'i': unreferenced local variable
+  Assignment2.vcxproj -> C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment2\Debug\Assignment2.exe
+  Assignment2.vcxproj -> C:\Users\hp\Documents\Visual Studio 2015\Projects\Assignment2\Debug\Assignment2.pdb (Partial PDB)
